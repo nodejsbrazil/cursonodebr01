@@ -7,9 +7,6 @@ docker run \
     -d \
     postgres
 
-docker ps 
-docker exec -it postgres /bin/bash 
-
 docker run \
     --name adminer \
     -p 8080:8080 \
