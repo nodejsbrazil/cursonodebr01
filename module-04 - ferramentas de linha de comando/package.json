@@ -1,0 +1,17 @@
+{
+  "name": "module04-arquivos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database.js",
+  "scripts": {
+    "test": "mocha -w --reporter nyan"
+  },
+  "author": "erickwendel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "commander": "^2.18.0"
+  }
+}

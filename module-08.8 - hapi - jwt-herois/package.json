@@ -1,0 +1,28 @@
+{
+  "name": "modulo05-multidatabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.test.js"
+  },
+  "author": "erickwendel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "boom": "^7.2.2",
+    "hapi": "^17.7.0",
+    "hapi-auth-jwt2": "^8.1.0",
+    "hapi-swagger": "^9.1.3",
+    "inert": "^5.1.2",
+    "joi": "^14.1.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.3.11",
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.38.0",
+    "vision": "^5.4.3"
+  }
+}

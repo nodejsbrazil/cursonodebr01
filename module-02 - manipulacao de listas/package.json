@@ -1,0 +1,14 @@
+{
+  "name": "module-02-lists",
+  "version": "1.0.0",
+  "description": "- Obter informações da API do Starwars - Obter pessoas pelo nome ([https://swapi.co/api/people/?search=r2&format=json](https://swapi.co/api/people/?search=r2&format=json))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erickwendel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

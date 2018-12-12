@@ -1,0 +1,15 @@
+{
+  "name": "modulo05-multidatabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w *.test.js"
+  },
+  "author": "erickwendel",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {}
+}
