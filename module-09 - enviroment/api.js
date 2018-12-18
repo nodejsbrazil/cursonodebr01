@@ -54,7 +54,7 @@ const swaggerConfig = {
 }
 
 const app = new Hapi.Server({
-    port: 4000
+    port: process.env.PORT
 })
 
 function mapRoutes(instance, methods) {
