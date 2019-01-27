@@ -10,11 +10,6 @@ Varrendo a internet, encontramos diversos treinamentos sobre  **Node.js**  e  **
 
 Este treinamento foi  **desenvolvido**  sob medida  **baseado**  em uma pesquisa sobre o que a  **comunidade brasileira mais necessita**, suas principais  **dificuldades**  e  **desafios**. Neste curso você aprenderá desde o básico de Javascript, ciclo de vida, manipulação de listas ao desenvolvimento real de aplicações em ambiente de produção. Na prática você também aprenderá conceitos sobre desenvolvimento orientado a testes, autenticação, autorização, documentação de serviços e gerenciamento de variáveis de ambiente (environments) de aplicações.
 
-## PRÉ-REQUISITOS
-
-Conhecimentos básicos em Git, Linux, DevOps e Cloud irão contribuir para você obter o melhor aproveitamento do treinamento. Saiba mais sobre containers e AKS.
-Conta gratuita para desenvolvedores no Azure Free Trial. Você receberá gratuitamente U$ 200,00 em créditos para usar em qualquer produto Azure por 30 dias + 12 meses de acesso à mais de 25 produtos.
-
 ## INSTRUTOR
 
 ### [Erick Wendel](https://twitter.com/erickwendel_)
@@ -142,3 +137,9 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Módulo 13  Próximos passos
 
 - O que aprender?
+
+## Certificado
+
+O melhor é que você ainda ganha este lindo certificado ao fim do treinamento! Vai ficar de fora? 
+
+<img src="./src/certificado.png" alt="certificado do curso" title="Certificado de conclusão"  />
