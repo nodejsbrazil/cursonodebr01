@@ -1,6 +1,6 @@
-# Bem vindo à Maratona Kubernetes
+# Bem vindo ao Curso NodeBR
 
-<img src="./src/nodebr.jpeg" alt="capa maratona kubernetes" title="Bem vindo à Maratona Kubernetes"  />
+<img src="./src/nodebr.jpeg" alt="capa curso nodebr" title="Bem vindo ao Curso NodeBR"  />
 
 Inscrições: [https://treinamento.nodebr.org/](https://treinamento.nodebr.org/)
 
