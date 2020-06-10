@@ -1,7 +1,10 @@
 # Manipulação de listas
 
+**UPDATE 10/06/2020**
+A API do Swapi.co saiu do ar, use a http://swapi.dev/
+
 - Obter informações da API do Starwars
-- Obter pessoas pelo nome ([https://swapi.co/api/people/?search=r2&format=json](https://swapi.co/api/people/?search=r2&format=json))
+- Obter pessoas pelo nome ([https://swapi.dev/api/people/?search=r2&format=json](https://swapi.dev/api/people/?search=r2&format=json))
 
 ## Instalação
 
